@@ -1,0 +1,36 @@
+@charset "utf-8"
+/* CSS Document */
+h1 {
+	font-family:serif;
+	color:darkblue;
+	background-color:white;
+	padding:5px;
+	line-height:40px;
+}
+body{
+	background-image: url("Dokumenti/background.jpg");
+}
+p {
+	color:darkblue;
+	color:blue;
+	color:hotpink;
+	color:purple;
+	color:green;
+	font-size:18px;
+	background-color:white;
+	padding:3px;
+	line-height:30px;
+	border:2px solid black;
+	width:645px;
+	border:opacity:0.2;
+}
+a:link{
+	color:darkblue;
+	background-color:white;
+	padding:5px;
+	line-height:40px;
+}
+a:hover{
+	background-color:pink;
+}
+
